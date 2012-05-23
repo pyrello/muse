@@ -1,1 +1,10 @@
 /* This file will hold styles that are loaded using the same media query as the narrow grid. */
+body { background-color: #ccc; }
+#page-wrapper-inner {
+margin: auto;
+background-color: #fff;
+box-shadow: 0 0 10px #999;}
+
+#zone-branding {
+padding: 15px 0;
+}
